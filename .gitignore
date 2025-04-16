@@ -38,5 +38,5 @@ yarn-error.log*
 # NPM
 .npmrc
 
-/dist
+# /dist
 /.obsidian/
